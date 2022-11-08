@@ -1,0 +1,213 @@
+body {
+  background-image: linear-gradient(to right, black, #1c1c1c);
+}
+a {
+  text-decoration: none;
+}
+table {
+  width: 100%;
+}
+footer {
+  background-image: linear-gradient(to left, black, #1c1c1c);
+  height: 50px;
+  margin: -10px;
+  padding: 20px;
+  padding-bottom: 100px;
+}
+.menu {
+  font-family: "Poppins";
+  text-align: center;
+  color: white;
+  vertical-align: middle;
+  font-size: 10px;
+  position: fixed;
+  margin-top: -10px;
+  height: 70px;
+  background-image: linear-gradient(to right, black, #1c1c1c);
+}
+.horizontal1 {
+  height: 413px;
+  width: 100%;
+  padding-top: 1cm;
+  color: white;
+}
+.menuLink {
+  color: white;
+}
+.horizontal5 {
+  margin-right: 200px;
+  margin-left: 200px;
+  height: 500px;
+  width: 80%;
+  border: 2px solid #1363df;
+  border-radius: 5px;
+  background-image: linear-gradient(to left, black, #111111);
+}
+.horizontal6 {
+  margin-right: 200px;
+  margin-left: 200px;
+  height: 300px;
+  width: 80%;
+  background-color: #1e1e1e;
+}
+.img1 {
+  padding: 10px;
+  text-align: right;
+}
+#bgimage{
+  background-image: linear-gradient(to bottom right, #1363df, #171ea1);
+  height: 400px;
+  width: 300px;
+  border-radius: 10% 40% 10% 40%;
+  float: right;
+  margin-right: 50px;
+}
+.img2 {
+  padding: 60px;
+  text-align: right;
+}
+.img3 {
+  margin: 30px;
+  width: 35px;
+}
+.tab {
+  display: inline-block;
+  margin-left: 36px;
+}
+#Cwriting1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 20px;
+  font-size: 23px;
+  color: #1363df;
+}
+#Cwriting2 {
+  font-family: "Inter", thin;
+  margin-left: 20px;
+  font-size: 14px;
+}
+.Cwriting3 {
+  font-family: "DM Sans";
+  font-size: 17px;
+  color: rgb(190, 190, 190);
+  padding-left: 50px;
+  padding-right: 30px;
+}
+.Cwriting4 {
+  font-family: "DM Sans";
+  font-size: 50px;
+  font-weight: bolder;
+  color: white;
+  padding: 70px 60px;
+}
+.Cwriting5 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 17px;
+  color: rgb(228, 228, 228);
+  width: 550px;
+  margin: 0px;
+  text-align: left;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  padding: 0px;
+}
+.Cwriting6 {
+  font-family: "Poppins";
+  font-size: 15px;
+  font-weight: lighter;
+  color: #989898;
+}
+.Cwriting7 {
+  font-family: "Poppins";
+  font-size: 13px;
+  font-weight: lighter;
+  color: #e9e9e9;
+}
+.LinkButton {
+  border-radius: 3px;
+  text-align: center;
+  color: white;
+  font-size: 2;
+  padding: 10px 25px;
+  background-image: linear-gradient(to bottom right, #1363df, #171ea1);
+  text-decoration: none;
+  display: inline-block;
+}
+.LinkButton2 {
+  border-radius: 5px;
+  font-family: "Poppins";
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding: 10px 45px;
+  background-image: linear-gradient(to bottom right, #1363df, #171ea1);
+  display: inline-block;
+}
+.isi1 {
+  height: 300px;
+}
+.kotak1 {
+  border-radius: 15px;
+  background-image: linear-gradient(to bottom right, #1363df, #171ea1);
+  height: 350px;
+  width: 300px;
+}
+.kotak2 {
+  border-radius: 15px;
+  background-color: #1e1e1e;
+  height: 350px;
+  width: 300px;
+}
+.kotak3 {
+  border-radius: 10px;
+  background-color: #1e1e1e;
+  height: 150px;
+  width: 300px;
+  margin: 20px;
+  text-align: left;
+  color: #1363df;
+  font-family: 'Impact';
+  font-size: 45px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+#kotak3 {
+  border-radius: 10px;
+  background-color: #1e1e1e;
+  height: 150px;
+  width: 300px;
+  margin: 20px;
+  text-align: center;
+  color: #1363df;
+  font-family: Impact;
+  font-size: 40px;
+  padding-top: 30px;
+  border: 2px solid #1363df;
+}
+.kotak4 {
+  background-color: #1e1e1e;
+  height: 300px;
+  width: 500px;
+  margin: 20px;
+  text-align: center;
+  padding: 30px;
+}
+#bgkotak {
+  background-image: linear-gradient(#181818, #181818);
+  background-repeat: no-repeat;
+  background-size: 50% 100%;
+}
+.isikotak1 {
+  text-align: left;
+  padding: 50px;
+  font-family: "Poppins";
+  color: white;
+  font-size: 20px;
+}
+.subjudul {
+  font-family: "Inter";
+  margin-left: 15%;
+  font-size: 20px;
+  color: #1363df;
+}
